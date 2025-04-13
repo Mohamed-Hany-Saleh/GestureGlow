@@ -79,5 +79,5 @@ Add support for wireless control (e.g., Bluetooth).
 
 🧠 Author
 Mohamed Hany Saleh
-GitHub Profile
-
+[GitHub Profile](https://github.com/Mohamed-Hany-Saleh)
+[LinkedIn](https://www.linkedin.com/in/mohammad-hany12/)
