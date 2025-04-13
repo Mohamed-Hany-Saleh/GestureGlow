@@ -65,7 +65,10 @@ The cvzone module detects the hand and determines which fingers are up.
 According to the finger count, the corresponding LEDs are turned ON/OFF via Arduino.
 
 📽️ Demo
-[🔗 Add demo video link here if available]
+
+https://github.com/user-attachments/assets/eaf4b7a4-60c0-478a-9583-be71aa0af5a3
+
+
 
 🔮 Future Improvements
 Add GUI to display real-time feedback and control.
